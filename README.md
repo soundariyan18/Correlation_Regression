@@ -35,7 +35,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
-Name: Soundariyan M N
+Developed by: Soundariyan M N
 Reg: 212222230146
 ```
 ```python
